@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Ale0311/Ale0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="100"/>
+</div>
+
+<h1>Hello there! 👋🏼<h1/>
